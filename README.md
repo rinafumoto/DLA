@@ -17,7 +17,7 @@
   -u, --help            Print usage
 ```
 
-## Example
+## Examples
 Default
 
 ![Default](images/default.jpg)
