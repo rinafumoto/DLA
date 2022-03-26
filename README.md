@@ -1,6 +1,6 @@
 # Diffusion Limited Aggregation
 
-## command line
+## Command
 
 ```
   -w, --width arg       image width (default: 200)
