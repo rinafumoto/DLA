@@ -17,6 +17,16 @@
   -u, --help            Print usage
 ```
 
+## Build Instructions
+Run following commands to build this project using cmake.
+
+```
+mkdir build
+cd build
+cmake ..
+make
+```
+
 ## Examples
 Default
 
